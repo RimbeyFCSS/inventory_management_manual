@@ -3,6 +3,7 @@
 - [Introduction](./introduction.md)
 - [Related Terms and Software](./terms.md)
 - [Installation](./installation.md)
+- [Quick Start](./quick_start.md)
 - [Components of the Program](./components.md)
   - [Submitting - Microsoft Form](./submitting.md)
   - [Storage - Microsoft Excel, Sharepoint](./storage.md)
