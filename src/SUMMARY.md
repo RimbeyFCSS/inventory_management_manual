@@ -1,0 +1,17 @@
+# Summary
+
+- [Introduction](./introduction.md)
+- [Related Terms and Software](./terms.md)
+- [Installation](./installation.md)
+- [Components of the Program](./components.md)
+  - [Submitting - Microsoft Form](./submitting.md)
+  - [Storage - Microsoft Excel, Sharepoint](./storage.md)
+  - [Visualization - Custom Program](./data_visualizer.md)
+    - [Starting the Visualizer](./run_script.md)
+    - [Loading data](./loading_data.md)
+    - [Visualizing Data](./visualizing_data.md)
+- [Example Usage Scenario](./example.md)
+- [For Maintenance](./maintenance.md)
+  - [Connection between the components](./interconnection.md)
+  - [Deprecation within the custom program](./app_deprecation.md)
+  - [Resources for finding developers](./maintenance_resources.md)
