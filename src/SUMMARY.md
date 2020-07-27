@@ -11,7 +11,6 @@
     - [Starting the Visualizer](./run_script.md)
     - [Loading data](./loading_data.md)
     - [Visualizing Data](./visualizing_data.md)
-- [Example Usage Scenario](./example.md)
 - [For Maintenance](./maintenance.md)
   - [Connection between the components](./interconnection.md)
   - [Deprecation within the custom program](./app_deprecation.md)
